@@ -1,4 +1,12 @@
+body{
+    background-color:burlywood;
+}
+h1{
+    text-align: center;
+    font-size: xx-large;
+}
 p{
     color: aqua;
-    font-size:xx-large
+    font-size:xx-large;
+    text-align: center;
 }
